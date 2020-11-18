@@ -1,0 +1,37 @@
+.frontImage{
+  display: block;
+  margin: auto;
+  width: 500px;
+  height: 250px;
+}
+.text-center{
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+}
+input{
+  margin-right: 40px;
+}
+.input-left{
+  margin-left: 40px
+}
+.text-on-table{
+  text-align: center;
+}
+.text-in-table{
+  text-align: left;
+}
+.table{
+  margin: auto;
+  width: 400px;
+}
+body{
+  font-family: sans-serif;
+}
+.registr{
+  text-align: center;
+}
+.not-mail{
+  color: red;
+  font-size: 80%;
+}

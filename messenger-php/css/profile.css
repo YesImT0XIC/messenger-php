@@ -1,0 +1,55 @@
+.zag{
+  text-align: center;
+  font-weight: bold;
+  font-size: 200%;
+  }
+.struct-profile{
+  text-align: center;
+}
+
+.info-sotrudnik{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 20px;
+  line-height: 1.7;
+  color: white;
+  margin: 0px;
+}
+.center {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 20px;
+  line-height: 1.7;
+  color: white;
+  margin: 0px;
+  text-align: center;
+}
+
+hr{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.center-table {
+  padding-top: 100px;
+  margin: auto; /* Выравниваем таблицу по центру окна  */
+  font-size: 18px;
+}
+td {
+  text-align: center; /* Выравниваем текст по центру ячейки */
+}
+
+h1{
+  color: white;
+  margin-left: 10px;
+
+}
+.pipipupu{
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: justify;
+}
+h2{
+  color: white;
+  margin-left: 10px;
+}
